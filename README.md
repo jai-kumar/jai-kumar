@@ -89,7 +89,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="jai-kumar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jai-kumar" />
+  <img align="left" alt="jai-kumar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jai-kumar&show_icons=true&" />
 
 </details>
 
