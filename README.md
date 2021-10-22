@@ -2,7 +2,7 @@
 
 ## I'm a Brother and Developer!!
 
-- 🔭 Read my blog articles here: [Learn advancdes JS][medium]!
+- 🔭 Read my blog articles here: [Learn advanced JS][medium]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
