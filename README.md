@@ -1,6 +1,6 @@
 ### Hi there, I'm Jai - [website] 👋
 
-## I'm a Brother and Developer!!
+## I'm a Husband & Father of a cute little girl and a Developer!!
 
 - 🔭 Read my blog articles here: [Learn advanced JS][medium]!
 - 🌱 I’m currently learning everything 🤣
@@ -56,10 +56,10 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="jai-kumar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jai-kumar&show_icons=true&hide_border=true" />
-
+  <p style="display: none;">http://jaikumar.xyz/</p>
 </details>
 
-[website]: http://jaikumar.xyz/
+[website]: https://jai-kumar.github.io/home/
 [medium]: https://medium.com/@learn-with-jai
 [linkedin]: https://www.linkedin.com/in/jai-kumar/
 [vscode]: https://code.visualstudio.com/
