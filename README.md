@@ -10,9 +10,8 @@
 
 ### Connect with me:
 
-<img align="left" alt="jaikumar.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [Github](https://github.com/jai-kumar/jai-kumar)
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [LinkedIn](https://www.linkedin.com/in/jai-kumar/)
-
+<a href="https://github.com/jai-kumar/jai-kumar"><img align="left" alt="jaikumar.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.linkedin.com/in/jai-kumar/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br />
 
 ### Languages and Tools:
