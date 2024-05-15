@@ -26,9 +26,7 @@
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Angular" width="26px" src="https://github.com/jai-kumar/jai-kumar/assets/26626084/7ea24611-44c3-4eb6-b886-ce3a479bd05a" />
-
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />![tyepscript](https://github.com/jai-kumar/jai-kumar/assets/26626084/c386558f-3f2a-4144-8369-b60dfc77116f)
-
+<img align="left" alt="TypeScript" width="26px" src="https://github.com/jai-kumar/jai-kumar/assets/26626084/c386558f-3f2a-4144-8369-b60dfc77116f" />
 
 <br />
 <br />
