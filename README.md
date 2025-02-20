@@ -1,11 +1,11 @@
 ### Hi there, I'm Jai - [website] 👋
 
-## I'm a Husband & Father of a cute little girl and a Developer!!
+## I'm a Husband & Father of a cute little girl and an Engineer!!
 
 - 🔭 Read my blog articles here: [Learn advanced JS][medium]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw
 
 ### Connect with me:
